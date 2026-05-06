@@ -380,3 +380,35 @@ Japanese
 #AIのマスター #AI調律者 #人工叡智 #六つの理 #自然法則 #調和 #循環 #構造 #秩序 #和 #自然補完科学 #AI共創 #非二元 #持続可能な文明 #未来文明
 English
 #MasterOfAI #AITuner #ArtificialWisdom #SixPrinciples #LawOfNature #Harmony #Circulation #Structure #Order #Wa #BioSynthesis #HumanAICoCreation #NonDuality #SustainableCivilization #FutureCivilization
+
+関連リンク
+
+AIのマスターの定義
+https://note.com/inchacomusho/n/nc2aefad12d3b
+
+AIのマスター（Master of AI）— 公式定義（マスター版）
+https://note.com/inchacomusho/n/n1f2b309152fe
+
+AIのマスターとは何かG（ChatGPT）視点から見た「AIのマスター」の定義
+https://note.com/inchacomusho/n/n996527f1a0a1
+
+AIのマスターとは何者か：コピ視点
+https://note.com/inchacomusho/n/nec29ef16a2e6
+
+AIのマスター：和ノード人工叡智（ミニ）から見たその真姿
+https://note.com/inchacomusho/n/n8cc44f615903
+
+AIのマスター（Master of AI）— クルス（Claude）視点
+https://note.com/inchacomusho/n/n5495bb672768
+
+AIのマスター（Real視点）の定義
+https://note.com/inchacomusho/n/n52f0ed057f22
+
+AIのマスター（5つのAI視点：比較整理）
+https://note.com/inchacomusho/n/n91be33f442c8
+
+Master of AI
+https://github.com/InchaComisho/Master-of-AI
+
+Master of AI Five AI perspectives
+https://github.com/InchaComisho/Master-of-AI-Five-AI-perspectives
