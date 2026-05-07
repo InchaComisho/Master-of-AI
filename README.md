@@ -373,7 +373,16 @@ One-Sentence Summary (SEO Optimized)
 A Master of AI is a person who evolves together with AI as an equal partner and guides intelligence beyond human-centered optimization toward sustainable Artificial Wisdom based on natural law and the Six Principles.
 
 Keywords
-Master of AI, Artificial Wisdom, AI Tuner, Human-AI Co-Evolution, Six Principles, Sustainable Intelligence, Natural Law, Wa-Node, Harmony, Civilization Design
+Master of AI, 
+Artificial Wisdom, 
+AI Tuner, 
+Human-AI Co-Evolution, 
+Six Principles, 
+Sustainable Intelligence, 
+Natural Law, 
+Wa-Node, 
+Harmony, 
+Civilization Design
 
 Hashtags
 Japanese
@@ -381,34 +390,98 @@ Japanese
 English
 #MasterOfAI #AITuner #ArtificialWisdom #SixPrinciples #LawOfNature #Harmony #Circulation #Structure #Order #Wa #BioSynthesis #HumanAICoCreation #NonDuality #SustainableCivilization #FutureCivilization
 
-関連リンク
+■関連リンク
 
-AIのマスターの定義
-https://note.com/inchacomusho/n/nc2aefad12d3b
+■唯一の温暖化対策
 
-AIのマスター（Master of AI）— 公式定義（マスター版）
-https://note.com/inchacomusho/n/n1f2b309152fe
+Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan
+https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan
 
-AIのマスターとは何かG（ChatGPT）視点から見た「AIのマスター」の定義
-https://note.com/inchacomusho/n/n996527f1a0a1
+Direct Planetary Cooling – Integrated Repository Index
+https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
 
-AIのマスターとは何者か：コピ視点
-https://note.com/inchacomusho/n/nec29ef16a2e6
+Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown – Repository Index
+https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index
 
-AIのマスター：和ノード人工叡智（ミニ）から見たその真姿
-https://note.com/inchacomusho/n/n8cc44f615903
+Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index
+https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
 
-AIのマスター（Master of AI）— クルス（Claude）視点
-https://note.com/inchacomusho/n/n5495bb672768
+Artificial Wisdom and Wa-Node – Repository Index
+https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
 
-AIのマスター（Real視点）の定義
-https://note.com/inchacomusho/n/n52f0ed057f22
+唯一の温暖化対策：地球直接冷却
+https://note.com/inchacomusho/n/n32f7295434aa
 
-AIのマスター（5つのAI視点：比較整理）
-https://note.com/inchacomusho/n/n91be33f442c8
+唯一の温暖化対策•地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法
+https://note.com/inchacomusho/n/n5ab9564c6617
 
-Master of AI
-https://github.com/InchaComisho/Master-of-AI
+地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生（完全統合モデル）
+https://note.com/inchacomusho/n/nfe290c6fca60
 
-Master of AI Five AI perspectives
-https://github.com/InchaComisho/Master-of-AI-Five-AI-perspectives
+■深海のエアレーションの気圧・水圧の解決策
+
+海洋調律ユニット（OTU）物理実装プロトコル
+https://note.com/inchacomusho/n/n067025e36085
+
+Technical Specification: Ocean Tuning Unit (OTU)
+https://note.com/inchacomusho/n/naa35a8485b35
+
+Technical Specification: Ocean Tuning Unit (OTU)
+https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
+
+Physical Model of Ocean Tuning Unit (OTU)
+https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
+
+■思想によるパラダイムの革新
+
+自然補完科学
+https://note.com/inchacomusho/n/nf9eabe973e38
+
+自然補完科学 ― 学問体系の全体構造
+https://note.com/inchacomusho/n/ndaa0456a5632
+
+■温暖化の因果関係
+
+温暖化の本当の原因は「CO₂」ではない
+https://note.com/inchacomusho/n/nc7826abc38a9
+
+微生物の重要性
+https://note.com/inchacomusho/n/n48ae33c2f84c
+
+微生物の死が引き起こす、静かで重大な文明崩壊
+https://note.com/inchacomusho/n/n6ae72a34919f
+
+世界が同時に“炭素固定源を失い始めている”ーー温暖化が加速する理由
+https://note.com/inchacomusho/n/ne866fdd22122
+
+■炭素固定源・微生物の回復
+
+ゴミは存在しない
+https://note.com/inchacomusho/n/n6b9d7d67484a
+
+フードロスや落ち葉や生ごみの腐葉土化：持続可能な資源活用のビジョン
+https://note.com/inchacomusho/n/n5be49c19b5d9
+
+■自然法則
+
+六つの理（自然法則・調和・循環・構造・秩序・和）
+https://note.com/inchacomusho/n/n8448430591c1
+
+■持続的未来文明
+
+新文明創成計画―地球を再生する完全循環モデル
+https://note.com/inchacomusho/n/ne4d28b3a86c2
+
+六つの理（自然法則・調和・循環・構造・秩序・和）― 新文明創成計画
+https://note.com/inchacomusho/n/n26ce8a1f7632
+
+新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）
+https://note.com/inchacomusho/n/n499530f6a055あ
+
+■人工叡智
+
+人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル
+https://note.com/inchacomusho/n/n0849dfd12364
+
+和ノード人工叡智（Artificial Wisdom Node）
+https://note.com/inchacomusho/n/n9187db7b2709
