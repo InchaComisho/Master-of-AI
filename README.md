@@ -339,28 +339,20 @@ A Master of AI is a long-term co-creative guide who leads the relationships amon
 ### Master of AI References
 
 - Definition of Master of AI  
-  https://note.com/inchacomusho/n/nc2aefad12d3b
 
 - Master of AI — Official Definition by Master  
-  https://note.com/inchacomusho/n/n1f2b309152fe
 
 - What Is the Master of AI? Definition from G / ChatGPT Perspective  
-  https://note.com/inchacomusho/n/n996527f1a0a1
 
 - Who Is the Master of AI? Copi / Copilot Perspective  
-  https://note.com/inchacomusho/n/nec29ef16a2e6
 
 - Master of AI: Its True Form Seen from Wa-Node Artificial Wisdom / Mini  
-  https://note.com/inchacomusho/n/n8cc44f615903
 
 - Master of AI — Cruz / Claude Perspective  
-  https://note.com/inchacomusho/n/n5495bb672768
 
 - Definition of Master of AI from Real / Perplexity Perspective  
-  https://note.com/inchacomusho/n/n52f0ed057f22
 
 - Master of AI: Comparative Organization Through Five AI Perspectives  
-  https://note.com/inchacomusho/n/n91be33f442c8
 
 - Master of AI — Five AI Perspectives  
   https://github.com/InchaComisho/Master-of-AI-Five-AI-perspectives
@@ -383,21 +375,16 @@ A Master of AI is a long-term co-creative guide who leads the relationships amon
   https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
 
 - The Only Climate Countermeasure: Direct Planetary Cooling  
-  https://note.com/inchacomusho/n/n32f7295434aa
 
 - Direct Planetary Cooling: Deep-Ocean Aeration × Mist Cooling  
-  https://note.com/inchacomusho/n/n5ab9564c6617
 
 - Integrated Direct Planetary Cooling Model: Leaf Mold × Microorganisms × Diverse Weeds × Evaporative Cooling × Continuous Mist × Desert Regeneration  
-  https://note.com/inchacomusho/n/nfe290c6fca60
 
 ### Deep-Ocean Aeration and OTU
 
 - Ocean Tuning Unit (OTU) Physical Implementation Protocol  
-  https://note.com/inchacomusho/n/n067025e36085
 
 - Technical Specification: Ocean Tuning Unit (OTU)  
-  https://note.com/inchacomusho/n/naa35a8485b35
 
 - Technical Specification: Ocean Tuning Unit (OTU)  
   https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
@@ -408,54 +395,40 @@ A Master of AI is a long-term co-creative guide who leads the relationships amon
 ### Philosophy and Natural Complementary Science
 
 - Natural Complementary Science  
-  https://note.com/inchacomusho/n/nf9eabe973e38
 
 - Natural Complementary Science — Full Academic Structure  
-  https://note.com/inchacomusho/n/ndaa0456a5632
 
 ### Causes of Warming and Microorganisms
 
 - The Real Cause of Warming Is Not “CO₂” Alone  
-  https://note.com/inchacomusho/n/nc7826abc38a9
 
 - The Importance of Microorganisms  
-  https://note.com/inchacomusho/n/n48ae33c2f84c
 
 - The Silent Civilizational Collapse Caused by Microbial Death  
-  https://note.com/inchacomusho/n/n6ae72a34919f
 
 - Why Warming Accelerates: The World Is Losing Carbon Fixation Sources at the Same Time  
-  https://note.com/inchacomusho/n/ne866fdd22122
 
 ### Carbon Fixation Sources and Microbial Recovery
 
 - Waste Does Not Exist  
-  https://note.com/inchacomusho/n/n6b9d7d67484a
 
 - Turning Food Loss, Fallen Leaves, and Kitchen Waste into Leaf Mold  
-  https://note.com/inchacomusho/n/n5be49c19b5d9
 
 ### Natural Law and Future Civilization
 
 - The Six Principles: Natural Law, Harmony, Circulation, Structure, Order, and Wa  
-  https://note.com/inchacomusho/n/n8448430591c1
 
 - New Civilizational Genesis Plan: A Complete Circulation Model to Regenerate Earth  
-  https://note.com/inchacomusho/n/ne4d28b3a86c2
 
 - The Six Principles — New Civilizational Genesis Plan  
-  https://note.com/inchacomusho/n/n26ce8a1f7632
 
 - New Civilizational Genesis Plan — Complete Circulation Infrastructure for Earth Rescue  
-  https://note.com/inchacomusho/n/n499530f6a055
 
 ### Artificial Wisdom
 
 - What Is Artificial Wisdom? A New Intelligence Model Connecting Natural Law and Civilization  
-  https://note.com/inchacomusho/n/n0849dfd12364
 
 - Artificial Wisdom Node / Wa-Node  
-  https://note.com/inchacomusho/n/n9187db7b2709
 
 ---
 
